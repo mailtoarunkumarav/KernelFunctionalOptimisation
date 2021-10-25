@@ -21,22 +21,28 @@ For running the experiments, please follow the steps mentioned below.
   2. For GP regression experiments:
     (a) Navigate to “Regression” folder
         $ cd Regression
+        
     (b) Specify the experimental parameters
         $ python KerOptWrapper.py -d <dataset>
+        
         <dataset> is the dataset to be used in the regression (auto, fertility, concreteslump, yacht, · · · )
         For example: $ python KerOptWrapper.py -d auto
           
   3. For SVM classification experiments:
+  4. 
     (a) Navigate to “Classification” folder
         $ cd Classification
+        
     (b) Specify the experimental parameters
         $ python BayesianOptimisationWrapper.py -d <dataset>
         <dataset> is the dataset to be used in the classification (seeds, wine, heart, ionos, sonar,· · · )
         For example: $ python BayesianOptimizationWrapper.py -d seeds
           
   4. For Synthetic experiments:
+  5. 
     (a) Navigate to “Regression/Synthetic” folder
         $ cd Regression/Synthetic
+        
     (b) Specify the experimental parameters
         $ python KerOptWrapper.py -f <function_name>
         For example: $ python KerOptWrapper.py -f Triangular
