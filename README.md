@@ -29,7 +29,7 @@ For running the experiments, please follow the steps mentioned below.
         For example: $ python KerOptWrapper.py -d auto
           
   3. For SVM classification experiments:
-  4. 
+   
     (a) Navigate to “Classification” folder
         $ cd Classification
         
