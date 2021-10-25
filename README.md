@@ -17,8 +17,8 @@ We recommend installing the following dependencies for the smooth execution of t
 For running the experiments, please follow the steps mentioned below.
 
   1. Navigate to the directory named “KFO”, containing the source files required for conducting the experiments.
-  2. 
-  3. For GP regression experiments:
+    
+  2. For GP regression experiments:
     (a) Navigate to “Regression” folder
         $ cd Regression
     (b) Specify the experimental parameters
