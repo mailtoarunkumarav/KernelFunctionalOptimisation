@@ -39,7 +39,7 @@ For running the experiments, please follow the steps mentioned below.
         For example: $ python BayesianOptimizationWrapper.py -d seeds
           
   4. For Synthetic experiments:
-  5. 
+   
     (a) Navigate to “Regression/Synthetic” folder
         $ cd Regression/Synthetic
         
@@ -48,5 +48,5 @@ For running the experiments, please follow the steps mentioned below.
         For example: $ python KerOptWrapper.py -f Triangular
           
 
-          Note: The current version of the SVM implementation used in the classification experiments might consume more time
+Note: The current version of the SVM implementation used in the classification experiments might consume more time
 in training, depending on the dataset and the computational power of the server being used.
