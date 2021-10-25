@@ -41,5 +41,6 @@ For running the experiments, please follow the steps mentioned below.
         $ python KerOptWrapper.py -f <function_name>
         For example: $ python KerOptWrapper.py -f Triangular
           
-Note: The current version of the SVM implementation used in the classification experiments might consume more time
+
+          Note: The current version of the SVM implementation used in the classification experiments might consume more time
 in training, depending on the dataset and the computational power of the server being used.
