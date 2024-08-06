@@ -49,4 +49,4 @@ For running the experiments, please follow the steps mentioned below.
           
 
 Note: The current version of the SVM implementation used in the classification experiments might consume more time
-in training, depending on the dataset and the computational power of the server being used
+in training, depending on the dataset and the computational power of the server being used.
