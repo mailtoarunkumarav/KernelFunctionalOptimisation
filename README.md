@@ -3,7 +3,7 @@ Code base for NeurIPS 2021 publication titled Kernel Functional Optimisation (KF
 
 We have conducted all our experiments in a server with the following specifications.
   • RAM: 16 GB
-  • Processor: Intel (R) Xeon(R) W-2133 CPU @ 3.60GHz
+  • Processor: Intel (R) Xeon(R) Processor W-2133 CPU @ 3.60GHz
   • GPU: NVIDIA Quadro P 1000 4GB + 8GB Memory
   • Operating System: Ubuntu 18.04 LTS Bionic
 
